@@ -1,4 +1,4 @@
-# ApplicationsofML
+# Knowledge test of ML
 # These are some applications of Machine Learning. 
 1. Stock Predictions
 2. LSTM with Machine Learning
